@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "G:\\Users\\терминатор\\.dotnet\\store\\|arch|\\|tfm|",
+      "G:\\Users\\терминатор\\.nuget\\packages",
+      "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}
